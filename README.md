@@ -1,7 +1,3 @@
-Student = Oziel de Oliveira Carneiro
-ID = 4511-5767-72
-email = odeolive@usc.edu
-
 1 - Program Description
 
 The program is divided in 4 classes, IO.cpp, Node.cpp, Search.cpp, main.cpp.
