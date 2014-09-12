@@ -1,3 +1,5 @@
+This code was developed for an assignment for an Artificial Intelligence course at USC using C++. The assignment requested to program both Breadth First Search and Uniform Cost Search for a problem where there was a square board, with two characters A and B, and obstacles (meaning no character could use this place on the board), the movement of A is controlled and B moves based on the action of A. The goal is to make A and B reach the same spot on the board.
+
 1 - Program Description
 
 The program is divided in 4 classes, IO.cpp, Node.cpp, Search.cpp, main.cpp.
