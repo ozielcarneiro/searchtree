@@ -14,3 +14,7 @@ To compile the program type the following command on the Terminal: g++ main.cpp 
 
 For the program to run correctly the input.txt file needs to be in the same directory as the output file generated after compilation.
 To run the program after compiling type the following command on the Terminal: ./a.out
+
+3 - Input and Output Files
+
+The input file is a text file containing the board size, then the cost of each of the movements of A, then the position of A and B, and the position of the obstacles. The output file is a text file with the output of the run for both algorithms. The first value is the value for the evaluation variable for the set of actions (for BFS is the number of levels, for UCS is the total cost of actions), and then the sequence of A locations until reaches B. If no solution is possible the output will be -1.
